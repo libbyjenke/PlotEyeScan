@@ -1,0 +1,11 @@
+Package: PlotEyeScan
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Libby", "Jenke", , "ljenke@uh.edu", role = c("aut", "cre"))
+Description: This function takes fixation data and plots (1) the location of the fixations, (2) the duration of the fixations (represented by fixation point size), and (3) the order of the fixations on top of a stimulus image. A color gradient is applied to indicate the order of the fiations. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
