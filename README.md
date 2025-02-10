@@ -73,3 +73,7 @@ PlotEyeScan(fix_data, image_path, eyetracker_width, eyetracker_height, trial_num
 You should now have a series of plots, each one with a single respondents' data for a single stimulus screen.
 
 You can see that Respondent 2's fixations are down and to the right of where they would be expected if the respondent were looking at the stimuli. This is because the calibration step was (purposefully) not done properly, leading to an offset of the respondent's fixations.
+
+## Applications
+For a framework for applications and more on using eye tracking in the social sciences, see this paper:
+Libby Jenke and Nicolette Sullivan. "Attention and Political Choice: A Foundation for Eye Tracking in Political Science." Forthcoming at *Political Analysis*. [Working paper](https://osf.io/preprints/socarxiv/ns48h),
